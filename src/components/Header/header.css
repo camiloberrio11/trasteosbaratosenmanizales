@@ -1,0 +1,12 @@
+.header-layout {
+  width: 100%;
+  background-color: #557D1D;
+  height: 100px;
+}
+
+
+@media (max-width: 500px) {
+  .header-layout, h2 {
+    padding: 10px;
+  }
+}
