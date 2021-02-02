@@ -47,7 +47,7 @@ const BannerContacto = () => {
                 <div className="partner-box-caption">
                   <h5>Whatsapp</h5>
                   <a
-                    href="http://wa.me/+573186234572?text=Hola, buen día! Estoy pendiente de realizar un acarreo y quisiera recibir más información. Gracias"
+                    href="http://wa.me/+573215524272?text=Hola, buen día! Estoy pendiente de realizar un trasteo y quisiera recibir más información. Gracias"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"
@@ -70,7 +70,7 @@ const BannerContacto = () => {
                 <div className="partner-box-caption">
                   <h5>Llamada</h5>
                   <a
-                    href="tel:+573186234572"
+                    href="tel:+573215524272"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"

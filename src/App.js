@@ -4,6 +4,7 @@ import { Helmet } from 'react-helmet';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import ListadoServicios from './components/ListadoServicios/ListadoServicios';
+import PrincipalesServicios from './components/PrincipalesServicios/PrincipalesServicios';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <BotonWhatsapp />
       <ListadoServicios />
       <BannerContacto />
+      <PrincipalesServicios />
       <Footer />
     </div>
   );

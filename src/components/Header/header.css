@@ -7,6 +7,9 @@
 
 
 @media (max-width: 500px) {
+  .header-layout {
+    height: 144px;
+  }
   .header-layout, h2 {
     padding: 10px;
   }
@@ -15,5 +18,9 @@
 .phone-contact {
   display: flex;
   justify-content: center;
+  color: white;
+}
+
+.phone-contact:hover{
   color: white;
 }
