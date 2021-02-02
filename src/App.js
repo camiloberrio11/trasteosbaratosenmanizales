@@ -17,7 +17,7 @@ function App() {
           name="description"
           content="this page is trasteos manizales and trasteos manizales, economicos, baratos en manizales"
         />
-        <link rel="canonical" href="https://trasteosenmanizales.netlify.app" />
+        <link rel="canonical" href="https://trasteosenmanizales.com/" />
       </Helmet>
       <Header />
       <BotonWhatsapp />
