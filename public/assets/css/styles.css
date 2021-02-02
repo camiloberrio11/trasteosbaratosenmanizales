@@ -139,7 +139,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #003b77;
+  color: #557D1D;
   font-family: 'spartan_mbbold';
 }
 .font-2 {
@@ -1179,7 +1179,7 @@ html body .b-all {
   color: #fe2a5c !important;
 }
 .theme-cl-blue {
-  color: #6563FF !important;
+  color: #32A838 !important;
 }
 html body .text-blue {
   color: #02bec9;
@@ -4653,7 +4653,7 @@ nav a {
 }
 .features:hover h4,
 .features.active h4 {
-  color: #6563FF;
+  color: #32A838;
 }
 .features.features-center img {
   margin: 0 auto 15px;
@@ -4913,7 +4913,7 @@ a.read-more i,
 }
 .large-features-2:hover h4,
 .large-features-2:focus h4 {
-  color: #6563FF;
+  color: #32A838;
 }
 
 }
