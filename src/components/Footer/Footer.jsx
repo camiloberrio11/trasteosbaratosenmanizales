@@ -48,8 +48,8 @@ const Footer = () => {
                 <div className="footer-widget">
                   <h4 className="widget-title">Acarreos Manizales</h4>
                   <p>Manizales, Colombia</p>
-                  <p>trasteosmanizales.com@gmail.com</p>
-                  <p>+57 3215524272</p>
+                  <p>williamcastro.mudanza@gmail.com</p>
+                  <p>+57 321 552 4272</p>
                 </div>
               </div>
 

@@ -17,8 +17,7 @@ const ListadoServicios = () => {
                 <h2>Beneficios</h2>
                 <p>
                   Acá te contaremos algunos de los beneficios que obtendrás al
-                  contratar tu trasteo o acarreo con nosotros, ten en cuenta que
-                  cada uno de ellos
+                  contratar tu trasteo o acarreo con nosotros:
                 </p>
               </div>
             </div>

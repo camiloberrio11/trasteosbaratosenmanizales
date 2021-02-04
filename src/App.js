@@ -17,6 +17,10 @@ function App() {
           name="description"
           content="this page is trasteos manizales and trasteos manizales, economicos, baratos en manizales"
         />
+        <meta
+          name="description"
+          content="Pagina de trasteos en manizales, baratos y economicos"
+        />
         <link rel="canonical" href="https://trasteosenmanizales.com/" />
       </Helmet>
       <Header />

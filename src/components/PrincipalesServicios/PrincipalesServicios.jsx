@@ -15,8 +15,8 @@ const PrincipalesServicios = () => {
                 </h2>
                 <p>
                   Nos caracterizamos por ser los mejores realizando labores de
-                  trasteos y acarreos, contamos con muchisimos años de
-                  experiencia, aca te contamos un poco de lo que más hacemos en
+                  trasteos y acarreos, contamos con muchísimos años de
+                  experiencia, acá te contamos un poco de lo que más hacemos en
                   nuestro día a día.
                 </p>
               </div>
@@ -37,8 +37,7 @@ const PrincipalesServicios = () => {
                 />
                 <h4>Trasteos</h4>
                 <p>
-                  Los trasteos de cosas/pertenencias y objetos de entre un punto
-                  y el respectivo destino
+                  Llevamos y traemos cada una de tus pertenencias con el máximo cuidado posible, sabiendo lo importante que son para ti
                 </p>
               </div>
             </div>
@@ -57,8 +56,8 @@ const PrincipalesServicios = () => {
                 <h4>Acarreos</h4>
                 <p>
                   Realizamos todo tipo de acarreos, contando con vehículos de
-                  todas las capacidades, lo cual permite cuidar y brindarte
-                  seguridad con cada elemento que decidas transportar.
+                  todas las capacidades, lo cual permite cuidar y brindar
+                  seguridad con cada elemento que transportamos.
                 </p>
               </div>
             </div>
