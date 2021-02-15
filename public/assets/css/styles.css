@@ -139,7 +139,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #557D1D;
+  color: #cd191d;
   font-family: 'spartan_mbbold';
 }
 .font-2 {
@@ -1179,7 +1179,7 @@ html body .b-all {
   color: #fe2a5c !important;
 }
 .theme-cl-blue {
-  color: #32A838 !important;
+  color: #cd191d !important;
 }
 html body .text-blue {
   color: #02bec9;
@@ -4653,7 +4653,7 @@ nav a {
 }
 .features:hover h4,
 .features.active h4 {
-  color: #32A838;
+  color: #cd191d;
 }
 .features.features-center img {
   margin: 0 auto 15px;
@@ -4913,10 +4913,9 @@ a.read-more i,
 }
 .large-features-2:hover h4,
 .large-features-2:focus h4 {
-  color: #32A838;
+  color: red;
 }
 
-}
 .veticle-features {
   display: table;
   width: 100%;
@@ -6533,7 +6532,7 @@ button.close span {
 }
 .page-title-wrap.pt-img-wrap h1 {
   /* color: #fff; */
-  color: #CAA136;
+  color: #caa136;
 }
 .pt-caption p {
   font-size: 16px;

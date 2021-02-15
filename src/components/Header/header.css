@@ -1,16 +1,16 @@
 .header-layout {
   width: 100%;
-  background-color: #557D1D;
+  background-color: #cd191d;
   height: 100px;
   padding: 10px;
 }
-
 
 @media (max-width: 500px) {
   .header-layout {
     height: 144px;
   }
-  .header-layout, h2 {
+  .header-layout,
+  h2 {
     padding: 10px;
   }
 }
@@ -23,6 +23,6 @@
   font-size: 19px;
 }
 
-.phone-contact:hover{
+.phone-contact:hover {
   color: white;
 }
