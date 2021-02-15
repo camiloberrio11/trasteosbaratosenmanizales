@@ -11,11 +11,11 @@ function App() {
     <div id="main-wrapper">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Trasteos Manizales | Sitio web</title>
+        <title>Trasteos Manizales | Mudanzas | Sitio Web</title>
         <link rel="preload" />
         <meta
           name="description"
-          content="this page is trasteos manizales and trasteos manizales, economicos, baratos en manizales"
+          content="Trasteos, mudanzas, acarreos baratos y economicos en Manizales, Todo tipo de encomiendas y traslado de elementos. Contacto: 318 623 4572"
         />
         <meta
           name="description"
