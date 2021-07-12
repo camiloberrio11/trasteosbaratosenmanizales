@@ -14,9 +14,8 @@ const BannerContacto = () => {
               <div className="sec-heading light mx-auto">
                 <h2>Contáctanos ya</h2>
                 <p>
-                  Que estas esperando para realizar tu trasteo/acarreo de una
-                  forma segura y con la mayor confiabilidad del mercado,
-                  contáctanos y te daremos toda la información.
+                  Que estas esperando para realizar tu trasteo/acarreo de una forma segura y con la
+                  mayor confiabilidad del mercado, contáctanos y te daremos toda la información.
                 </p>
               </div>
             </div>
@@ -38,11 +37,7 @@ const BannerContacto = () => {
             <div className="col-lg-4 col-md-4 col-sm-6">
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
-                  <img
-                    src={WhatsAppIcon}
-                    className="img-fluid mx-auto"
-                    alt="icon-whatsapp"
-                  />
+                  <img src={WhatsAppIcon} className="img-fluid mx-auto" alt="icon-whatsapp" />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Whatsapp</h5>
@@ -61,11 +56,7 @@ const BannerContacto = () => {
             <div className="col-lg-4 col-md-4 col-sm-6">
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
-                  <img
-                    src={CallIcon}
-                    className="img-fluid mx-auto"
-                    alt="icon-llamada"
-                  />
+                  <img src={CallIcon} className="img-fluid mx-auto" alt="icon-llamada" />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Llamada</h5>
@@ -84,16 +75,12 @@ const BannerContacto = () => {
             <div className="col-lg-4 col-md-4 col-sm-6">
               <div className="partner-box mb-4">
                 <div className="partner-box-thumb">
-                  <img
-                    src={MailIcon}
-                    className="img-fluid mx-auto"
-                    alt="icon-correo"
-                  />
+                  <img src={MailIcon} className="img-fluid mx-auto" alt="icon-correo" />
                 </div>
                 <div className="partner-box-caption">
                   <h5>Email</h5>
                   <a
-                    href="mailto:camiloberriouribe@gmail.com"
+                    href="mailto:williamcastro.mudanzas@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                     className="partner-info"
