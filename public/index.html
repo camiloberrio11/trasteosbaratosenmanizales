@@ -16,6 +16,27 @@
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/camion.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>Trasteos en Manizales | Sitio web</title>
+    <!-- Global site tag (gtag.js) - Google Ads: 834206033 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-834206033"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'AW-834206033');
+    </script>
+
+    <!-- Event snippet for 02 WhatsApp Trasteos En Manizales conversion page -->
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        document.querySelector('.btn-whatsapp').addEventListener('click', function () {
+          console.log('whatsapp ok');
+          gtag('event', 'conversion', { send_to: 'AW-834206033/jc7qCLvygtEDENHy440D' });
+        });
+      });
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
